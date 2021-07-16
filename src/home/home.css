@@ -1,0 +1,15 @@
+.home{
+    height: auto;
+    overflow-x: hidden;
+  
+}
+.left{
+    margin-top: 150px;
+    order: 2;
+}
+.imgHome{
+    order: 1;
+    width:auto; 
+    margin-top: 150px;
+    border-radius: 100px;
+}

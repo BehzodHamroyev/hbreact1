@@ -1,0 +1,11 @@
+.col-12 .person{
+    height: auto;
+    overflow-x: hidden;
+    border-radius: 20px;
+}
+.personRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}

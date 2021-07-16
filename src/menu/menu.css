@@ -1,0 +1,25 @@
+
+.menu{
+    height: auto;
+    overflow-x: hidden;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card{
+    border: none;
+}
+
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footerCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+img{
+    border-radius: 40px 0 40px 0;
+}

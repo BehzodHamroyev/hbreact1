@@ -1,0 +1,35 @@
+.Footer{
+    background-color: #252525;
+    padding: 50px 0 200px 0;
+    display: flex;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    overflow-x: hidden;
+}
+.cardFooter{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.logoFooter{
+    width: 80px;
+}
+p{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+ a{
+    color: white;
+    text-decoration: none;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.imgFooter{
+    width: 30px;
+    border-radius: 50%;
+}

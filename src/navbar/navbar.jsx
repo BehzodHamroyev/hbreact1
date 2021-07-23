@@ -26,7 +26,7 @@ class Navbar extends React.Component {
                     className="AppMini"
                     alt="logo"/>
                 <div className={
-                    `nav__menu ${
+                    `navMenu ${
                         this.state.hide && "navMenuShow" || ""
                     }`
                 }>

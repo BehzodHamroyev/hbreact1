@@ -27,7 +27,7 @@ class Navbar extends React.Component {
                     alt="logo"/>
                 <div className={
                     `nav__menu ${
-                        this.state.hide && "nav__menu-show" || ""
+                        this.state.hide && "navMenuShow" || ""
                     }`
                 }>
 

@@ -6,7 +6,7 @@
     align-items: center;
     height: 80px;
 }
-.nav__menu{
+.navMenu{
     display: flex;
     align-items: center;
 
@@ -23,7 +23,7 @@
 }
 
 @media screen and (max-width: 992px) {
-    .nav__menu  {
+    .navMenu  {
         position: fixed;
         top: 0;
         left: -120%;
@@ -35,13 +35,13 @@
         transition: .5s;
        
     }
-    .nav__menu .media {
+    .navMenu .media {
         padding: 0 !important;
         flex-direction: column;
         align-items: center;
         justify-content: center;
     }
-    .nav__menu-show{
+    .navMenuShow{
         left: 0;
         transition: 0.5s;
     }
